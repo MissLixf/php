@@ -1,3 +1,2 @@
-# lefsson-4 loops
+# lefsson-5 function
 ### 在master中不会有任何内容
-### for while do...while  foreach
